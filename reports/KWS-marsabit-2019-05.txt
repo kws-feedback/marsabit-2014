@@ -1,0 +1,65 @@
+Report for Institution Code KWS, Resource marsabit
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 16
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Denmark ; Times: 11
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-27 ; Times: 4
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-31 ; Times: 4
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Numida meleagris year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "danaus" ; Times: 1
+	Query: "Ardeotis kori year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Circaetus pectoralis year &gt; 1985" ; Times: 1
+	Query: "Chelictinia riocourii" ; Times: 1
+	Query: "Scopus umbretta year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "ovampensis" ; Times: 1
+	Query: "Sagittarius serpentarius year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "northern yellow bat" ; Times: 1
+	Query: "Buphagus erythrorhynchus year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 1
+	Query: "Colius striatus year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Dryoscopus gambensis year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Vidua macroura year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Lophotis ruficrista year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 940 download events in this period)
+Total number of records downloaded: 5
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ethiopia ; Times: 2
+	Country: Malawi ; Times: 1
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:apalis" ; Times: 1
+	Query: "Graphiurus murinus" ; Times: 2
+	Query: "Lygodactylus genus:Lygodactylus" ; Times: 1
+
+
+End of report.
