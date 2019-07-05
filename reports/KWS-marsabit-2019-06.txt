@@ -1,0 +1,85 @@
+Report for Institution Code KWS, Resource marsabit
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 92
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: Sweden ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 2
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-11 ; Times: 30
+	Date: 2019-06-10 ; Times: 12
+	Date: 2019-06-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:carnivora institutioncode:KWS" ; Times: 1
+	Query: "genus:Ciconia specificepithet:nigra" ; Times: 1
+	Query: "genus:Crocuta specificepithet:crocuta" ; Times: 2
+	Query: "genus:Xenopus specificepithet:borealis" ; Times: 2
+	Query: "genus:Buphagus specificepithet:erythrorhynchus" ; Times: 1
+	Query: "genus:Sagittarius specificepithet:serpentarius" ; Times: 1
+	Query: "genus:Loxodonta specificepithet:africana" ; Times: 1
+	Query: "genus:Epomophorus specificepithet:wahlbergi" ; Times: 1
+	Query: "specificepithet:leo genus:panthera institutioncode:KWS" ; Times: 1
+	Query: "genus:Cercopithecus specificepithet:mitis" ; Times: 2
+	Query: "ACCIPITER BADIUS" ; Times: 1
+	Query: "genus:Rhinolophus specificepithet:landeri" ; Times: 1
+	Query: "specificepithet:leo genus:panthera order:carnivora institutioncode:KWS" ; Times: 1
+	Query: "genus:Panthera specificepithet:leo" ; Times: 2
+	Query: "genus:Vanellus specificepithet:vanellus" ; Times: 1
+	Query: "genus:Orycteropus specificepithet:afer" ; Times: 1
+	Query: "genus:Apis specificepithet:mellifera" ; Times: 1
+	Query: "genus:Bitis specificepithet:arietans" ; Times: 1
+	Query: "genus:Papio specificepithet:anubis" ; Times: 3
+	Query: "genus:Ciconia specificepithet:ciconia" ; Times: 1
+	Query: "genus:Lycophidion specificepithet:depressirostre" ; Times: 1
+	Query: "vntype:observation order:coleoptera" ; Times: 1
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 1
+	Query: "Coracias naevius" ; Times: 1
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 1
+	Query: "genus:Hystrix specificepithet:cristata" ; Times: 1
+	Query: "genus:Apus specificepithet:affinis" ; Times: 1
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 1
+	Query: "genus:Trioceros specificepithet:marsabitensis" ; Times: 1
+	Query: "genus:Papio specificepithet:cynocephalus" ; Times: 3
+	Query: "hieraaetus ayresii" ; Times: 2
+	Query: "genus:Equus specificepithet:africanus" ; Times: 2
+	Query: "genus:Rieppeleon specificepithet:kerstenii" ; Times: 1
+	Query: "northern spotted owl" ; Times: 4
+	Query: "genus:Aepyceros specificepithet:melampus" ; Times: 1
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1182 download events in this period)
+Total number of records downloaded: 5
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "spotted owl" ; Times: 1
+	Query: "northern spotted owl" ; Times: 2
+	Query: "genus:Xenopus" ; Times: 1
+
+
+End of report.
