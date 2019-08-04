@@ -1,0 +1,62 @@
+Report for Institution Code KWS, Resource marsabit
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 24
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Gambia ; Times: 3
+	Country: Sweden ; Times: 6
+	Country: Kenya ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 5
+	Date: 2019-07-19 ; Times: 3
+	Date: 2019-07-24 ; Times: 2
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-30 ; Times: 4
+	Date: 2019-07-15 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:communis genus:Sylvia year&gt;1980 year&lt;=2019" ; Times: 1
+	Query: "genus:Papio specificepithet:cynocephalus" ; Times: 1
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 1
+	Query: "genus:Papio specificepithet:anubis" ; Times: 1
+	Query: "Euodice cantans" ; Times: 3
+	Query: "genus:Xenopus specificepithet:borealis" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia year&gt;1980 year&lt;2020" ; Times: 3
+	Query: "hooded vulture" ; Times: 6
+	Query: "genus:Equus specificepithet:africanus" ; Times: 1
+	Query: "Northern spotted owl" ; Times: 2
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 985 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: India ; Times: 1
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "upupa epops" ; Times: 1
+	Query: "lygodactylus" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 1
+
+
+End of report.
