@@ -1,0 +1,67 @@
+Report for Institution Code KWS, Resource marsabit
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 107
+Number of records retrieved in searches: 117
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 103
+	Country: Argentina ; Times: 1
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-07 ; Times: 21
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-21 ; Times: 64
+	Date: 2020-04-03 ; Times: 8
+	Date: 2020-04-08 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Epomophorus wahlbergi" ; Times: 4
+	Query: "Alopochen aegyptiacus" ; Times: 5
+	Query: "Apus niansae" ; Times: 3
+	Query: "sylvia marsabit" ; Times: 3
+	Query: "Buteo augur" ; Times: 4
+	Query: "Sylvicapra grimmia" ; Times: 4
+	Query: "Apalis flavida" ; Times: 4
+	Query: "Papio cynocephalus" ; Times: 4
+	Query: "Petronia petronia" ; Times: 8
+	Query: "Tragelaphus imberbis" ; Times: 4
+	Query: "cerambycidae" ; Times: 1
+	Query: "Tragelaphus strepsiceros" ; Times: 4
+	Query: "Hylomyscus denniae" ; Times: 4
+	Query: "Tachymarptis aequatorialis" ; Times: 7
+	Query: "Phacochoerus africanus" ; Times: 4
+	Query: "Turtur tympanistria" ; Times: 6
+	Query: "Cercopithecus mitis" ; Times: 4
+	Query: "Papio anubis" ; Times: 4
+	Query: "Tragelaphus scriptus" ; Times: 4
+	Query: "Ciconia nigra" ; Times: 2
+	Query: "Oenanthe isabellina" ; Times: 9
+	Query: "Buteo rufinus" ; Times: 4
+	Query: "Ciconia ciconia" ; Times: 4
+	Query: "Psalidoprocne pristoptera" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1171 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Burhinus capensis" ; Times: 1
+
+
+End of report.
