@@ -1,0 +1,56 @@
+Report for Institution Code KWS, Resource marsabit
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 22
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-18 ; Times: 4
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-02 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Oryx specificepithet:beisa" ; Times: 2
+	Query: "Epomophorus wahlbergi" ; Times: 1
+	Query: "Scotophilus dinganii" ; Times: 1
+	Query: "genus:Tragelaphus specificepithet:strepsiceros" ; Times: 2
+	Query: "genus:Hystrix specificepithet:cristata" ; Times: 2
+	Query: "genus:Papio specificepithet:anubis" ; Times: 2
+	Query: "Cossypha semirufa" ; Times: 2
+	Query: "african lion" ; Times: 1
+	Query: "Rhinolophus landeri" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "Neoromicia helios" ; Times: 2
+	Query: "genus:Madoqua specificepithet:guentheri" ; Times: 2
+	Query: "swallow-tailed kite" ; Times: 1
+	Query: "genus:Tragelaphus specificepithet:imberbis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 853 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera" ; Times: 1
+
+
+End of report.
