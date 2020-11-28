@@ -1,0 +1,54 @@
+Report for Institution Code KWS, Resource marsabit
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 17
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 10
+	Country: Germany ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-21 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Cercopithecus mitis" ; Times: 1
+	Query: "Papio anubis" ; Times: 1
+	Query: "Apalis flavida" ; Times: 1
+	Query: "Hirundo aethiopica" ; Times: 1
+	Query: "Passer castanopterus" ; Times: 5
+	Query: "Papio cynocephalus" ; Times: 1
+	Query: "Gymnoris pyrgita" ; Times: 1
+	Query: "Hedydipna collaris" ; Times: 1
+	Query: "Hirundo smithii" ; Times: 1
+	Query: "Turtur tympanistria" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "Psalidoprocne pristoptera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 756 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "specificepithet:macroura genus:vidua" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "specificepithet:africanus genus:Phacochoerus" ; Times: 1
+
+
+End of report.
