@@ -1,0 +1,69 @@
+Report for Institution Code KWS, Resource marsabit
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 8
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 6
+	Country: Kenya ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-04 ; Times: 2
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-20 ; Times: 2
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Apalis flavida" ; Times: 1
+	Query: "Tachymarptis aequatorialis" ; Times: 1
+	Query: "Phacochoerus" ; Times: 1
+	Query: "Apus niansae" ; Times: 2
+	Query: "Psalidoprocne pristoptera" ; Times: 2
+	Query: "bitis arietans vntype:observation basisofrecord:HumanObservation" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 705 download events in this period)
+Total number of records downloaded: 457
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-23 ; Times: 2
+	Date: 2020-12-31 ; Times: 2
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "basisofrecord:HumanObservation" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "Woodpecker" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "agama agama" ; Times: 1
+
+
+End of report.
